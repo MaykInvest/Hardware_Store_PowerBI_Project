@@ -1,0 +1,20 @@
+﻿supplier_id,supplier_name,country,email,phone,lead_time_days,status,payment_terms
+SUP001,Kingston Technology,US,storage@kingston.com,+1 714-435-2600,30,active,Net 30
+SUP002,Samsung Electronics,KR,b2b@samsung.com,+82 2-2255-0114,45,active,Net 45
+SUP003,Corsair Components,US,sales@corsair.com,+1 510-657-8747,30,active,Net 30
+SUP004,G.Skill International,TW,sales@gskill.com,+886 2-2792-3366,21,active,Net 21
+SUP005,ASUS,TW,b2b@asus.com,+886 2-2894-3447,45,active,Net 45
+SUP006,MSI,TW,sales@msi.com,+886 2-2299-1162,30,active,Net 30
+SUP007,Gigabyte,TW,sales@gigabyte.com,+886 2-8912-4000,30,active,Net 30
+SUP008,Intel Corporation,US,oem@intel.com,+1 408-765-8080,60,active,Net 60
+SUP009,AMD,US,oem@amd.com,+1 408-749-4000,60,active,Net 60
+SUP010,NVIDIA,US,oem@nvidia.com,+1 408-486-2000,60,active,Net 60
+SUP011,EVGA Corporation,US,sales@evga.com,+1 888-900-3382,21,active,Net 21
+SUP012,Noctua,AT,sales@noctua.at,+43 1-353-3940,30,active,Net 30
+SUP013,Western Digital,US,b2b@wdc.com,+1 408-717-6000,30,active,Net 30
+SUP014,Seagate,US,oem@seagate.com,+1 408-658-1000,21,active,Net 21
+SUP015,be quiet!,DE,sales@bequiet.com,+49 30-3670600,45,active,Net 45
+SUP016,NZXT,US,sales@nzxt.com,+1 888-490-6998,21,active,Net 21
+SUP017,DeepCool,CN,sales@deepcool.com,+86 10-82781919,30,active,Net 30
+SUP018,Thermaltake,TW,sales@thermaltake.com,+886 2-2698-1366,30,active,Net 30
+SUP019,Cooler Master,TW,sales@coolermaster.com,+886 2-2698-2088,21,active,Net 21

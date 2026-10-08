@@ -1,0 +1,601 @@
+﻿ticket_id,customer_id,created_date,created_time,category,status,priority,days_open,resolved_date,satisfaction_score,contact_channel,assigned_agent,year,month
+TKT0001,CUS0350,2022-07-04,18:23,Delivery Issue,Open,High,21,,,In-Person,Agent Carla,2022,7
+TKT0002,CUS0394,2024-02-11,17:04,Warranty Claim,Open,Critical,6,,,In-Person,Agent Elena,2024,2
+TKT0003,CUS0447,2023-10-13,16:38,Billing,Closed,Medium,0,2023-10-13,4.0,Phone,Agent Diego,2023,10
+TKT0004,CUS0408,2022-12-05,09:16,Product Info,Resolved,High,2,2022-12-07,5.0,Chat,Agent Bruno,2022,12
+TKT0005,CUS0416,2024-02-11,16:07,Delivery Issue,Resolved,High,23,2024-03-05,5.0,In-Person,Agent Bruno,2024,2
+TKT0006,CUS0428,2023-01-05,15:23,Delivery Issue,Open,Low,12,,,In-Person,Agent Elena,2023,1
+TKT0007,CUS0444,2023-09-28,15:56,Warranty Claim,Resolved,Low,27,2023-10-25,1.0,Email,Agent Ana,2023,9
+TKT0008,CUS0056,2024-10-14,16:46,Technical Support,Escalated,Critical,11,,,Chat,Agent Ana,2024,10
+TKT0009,CUS0291,2023-08-12,14:39,Product Info,Resolved,Critical,3,2023-08-15,5.0,Email,Agent Bruno,2023,8
+TKT0010,CUS0011,2024-09-01,09:02,Technical Support,Escalated,Low,0,,,Email,Agent Carla,2024,9
+TKT0011,CUS0121,2022-12-13,18:35,Delivery Issue,Closed,Critical,8,2022-12-21,3.0,In-Person,Agent Carla,2022,12
+TKT0012,CUS0463,2022-06-04,11:27,Delivery Issue,In Progress,Critical,30,,,In-Person,Agent Ana,2022,6
+TKT0013,CUS0041,2023-08-14,12:45,Return Request,Resolved,Critical,27,2023-09-10,1.0,Chat,Agent Elena,2023,8
+TKT0014,CUS0017,2023-10-19,10:18,Technical Support,Open,Critical,29,,,In-Person,Agent Carla,2023,10
+TKT0015,CUS0021,2024-02-14,13:07,Return Request,In Progress,Low,29,,,Chat,Agent Elena,2024,2
+TKT0016,CUS0020,2023-02-24,11:48,Delivery Issue,Closed,Medium,27,2023-03-23,4.0,Chat,Agent Carla,2023,2
+TKT0017,CUS0295,2022-07-26,11:58,Billing,Open,Medium,8,,,Phone,Agent Elena,2022,7
+TKT0018,CUS0456,2024-01-27,16:40,Product Info,Resolved,High,30,2024-02-26,5.0,Chat,Agent Bruno,2024,1
+TKT0019,CUS0218,2022-12-12,15:31,Return Request,Open,Critical,14,,,Chat,Agent Ana,2022,12
+TKT0020,CUS0402,2023-03-20,12:34,Delivery Issue,Open,Low,26,,,Email,Agent Diego,2023,3
+TKT0021,CUS0284,2024-07-07,10:22,Installation Help,Closed,High,15,2024-07-22,2.0,Email,Agent Bruno,2024,7
+TKT0022,CUS0252,2022-03-09,08:42,Warranty Claim,Resolved,Medium,10,2022-03-19,4.0,In-Person,Agent Diego,2022,3
+TKT0023,CUS0208,2024-05-06,17:20,Billing,Open,Critical,4,,,Email,Agent Elena,2024,5
+TKT0024,CUS0411,2022-12-27,17:58,Installation Help,In Progress,High,5,,,Email,Agent Bruno,2022,12
+TKT0025,CUS0105,2023-01-18,14:23,Delivery Issue,Closed,Critical,25,2023-02-12,1.0,Email,Agent Ana,2023,1
+TKT0026,CUS0056,2023-12-25,11:37,Product Info,Open,Medium,28,,,Phone,Agent Elena,2023,12
+TKT0027,CUS0231,2023-09-23,17:14,Return Request,Open,Low,21,,,In-Person,Agent Elena,2023,9
+TKT0028,CUS0272,2022-08-16,10:29,Warranty Claim,Escalated,Critical,14,,,Email,Agent Ana,2022,8
+TKT0029,CUS0264,2024-12-17,16:51,Warranty Claim,Open,Low,5,,,In-Person,Agent Carla,2024,12
+TKT0030,CUS0173,2023-09-22,08:41,Installation Help,Escalated,Low,0,,,Email,Agent Elena,2023,9
+TKT0031,CUS0295,2022-04-02,09:52,Delivery Issue,In Progress,Critical,19,,,In-Person,Agent Diego,2022,4
+TKT0032,CUS0468,2023-11-26,14:32,Technical Support,Closed,Critical,0,2023-11-26,3.0,In-Person,Agent Bruno,2023,11
+TKT0033,CUS0412,2023-01-17,18:31,Warranty Claim,Resolved,Critical,30,2023-02-16,3.0,Chat,Agent Elena,2023,1
+TKT0034,CUS0256,2023-10-12,11:25,Delivery Issue,In Progress,Medium,29,,,In-Person,Agent Diego,2023,10
+TKT0035,CUS0407,2024-01-18,09:34,Delivery Issue,Open,Low,6,,,Chat,Agent Elena,2024,1
+TKT0036,CUS0092,2022-09-29,12:42,Return Request,Open,Low,2,,,Email,Agent Carla,2022,9
+TKT0037,CUS0350,2022-04-01,17:52,Delivery Issue,Escalated,Low,17,,,Phone,Agent Diego,2022,4
+TKT0038,CUS0303,2023-08-16,11:17,Technical Support,Resolved,High,18,2023-09-03,5.0,In-Person,Agent Bruno,2023,8
+TKT0039,CUS0338,2024-01-27,16:14,Product Info,Resolved,High,6,2024-02-02,5.0,Phone,Agent Diego,2024,1
+TKT0040,CUS0272,2023-07-03,17:53,Technical Support,Resolved,Medium,5,2023-07-08,4.0,Chat,Agent Bruno,2023,7
+TKT0041,CUS0207,2024-06-25,09:47,Warranty Claim,Closed,Medium,27,2024-07-22,5.0,Phone,Agent Elena,2024,6
+TKT0042,CUS0174,2023-12-01,08:11,Warranty Claim,Escalated,Low,26,,,Chat,Agent Elena,2023,12
+TKT0043,CUS0476,2023-05-06,09:18,Warranty Claim,Open,High,17,,,Email,Agent Carla,2023,5
+TKT0044,CUS0098,2023-09-16,13:28,Product Info,Escalated,Medium,3,,,Chat,Agent Bruno,2023,9
+TKT0045,CUS0117,2022-09-22,12:59,Delivery Issue,Open,Low,0,,,In-Person,Agent Bruno,2022,9
+TKT0046,CUS0269,2023-01-06,13:18,Installation Help,Resolved,Critical,14,2023-01-20,1.0,In-Person,Agent Bruno,2023,1
+TKT0047,CUS0203,2024-01-16,12:47,Delivery Issue,Escalated,High,20,,,Chat,Agent Carla,2024,1
+TKT0048,CUS0417,2023-08-11,18:06,Technical Support,Escalated,Critical,26,,,Chat,Agent Carla,2023,8
+TKT0049,CUS0266,2024-12-29,12:32,Technical Support,Resolved,Low,1,2024-12-30,5.0,In-Person,Agent Bruno,2024,12
+TKT0050,CUS0469,2024-09-10,13:11,Installation Help,In Progress,High,20,,,Email,Agent Bruno,2024,9
+TKT0051,CUS0100,2024-05-11,15:13,Technical Support,Escalated,High,20,,,In-Person,Agent Carla,2024,5
+TKT0052,CUS0474,2024-06-28,18:23,Installation Help,Escalated,Low,17,,,In-Person,Agent Elena,2024,6
+TKT0053,CUS0205,2022-08-11,16:54,Billing,Resolved,Low,4,2022-08-15,5.0,Phone,Agent Elena,2022,8
+TKT0054,CUS0311,2023-05-17,16:40,Warranty Claim,Open,Low,0,,,Chat,Agent Ana,2023,5
+TKT0055,CUS0102,2022-06-22,11:17,Delivery Issue,Escalated,Medium,22,,,Email,Agent Carla,2022,6
+TKT0056,CUS0029,2023-10-24,12:59,Return Request,Resolved,High,9,2023-11-02,4.0,Chat,Agent Bruno,2023,10
+TKT0057,CUS0151,2024-01-15,12:21,Return Request,Closed,High,8,2024-01-23,5.0,In-Person,Agent Elena,2024,1
+TKT0058,CUS0133,2022-12-24,14:22,Warranty Claim,Resolved,Low,7,2022-12-31,5.0,Phone,Agent Carla,2022,12
+TKT0059,CUS0382,2022-08-24,18:04,Installation Help,In Progress,High,28,,,Chat,Agent Bruno,2022,8
+TKT0060,CUS0374,2024-12-02,15:03,Technical Support,Escalated,Critical,29,,,Email,Agent Bruno,2024,12
+TKT0061,CUS0061,2023-08-16,13:47,Return Request,In Progress,Medium,0,,,Email,Agent Carla,2023,8
+TKT0062,CUS0435,2022-05-22,17:27,Delivery Issue,Open,Low,12,,,Phone,Agent Diego,2022,5
+TKT0063,CUS0082,2022-04-08,14:00,Product Info,Resolved,High,3,2022-04-11,4.0,Email,Agent Bruno,2022,4
+TKT0064,CUS0058,2023-05-20,10:51,Installation Help,Open,Low,25,,,In-Person,Agent Ana,2023,5
+TKT0065,CUS0258,2023-10-31,08:37,Warranty Claim,Closed,Medium,8,2023-11-08,4.0,Phone,Agent Bruno,2023,10
+TKT0066,CUS0366,2023-09-26,11:30,Installation Help,In Progress,High,16,,,Phone,Agent Elena,2023,9
+TKT0067,CUS0320,2023-08-13,11:38,Delivery Issue,Resolved,Low,26,2023-09-08,5.0,Phone,Agent Diego,2023,8
+TKT0068,CUS0132,2024-12-13,11:12,Technical Support,Open,Medium,6,,,In-Person,Agent Diego,2024,12
+TKT0069,CUS0146,2023-10-11,08:09,Warranty Claim,In Progress,Low,1,,,Phone,Agent Elena,2023,10
+TKT0070,CUS0499,2023-09-05,15:35,Return Request,Closed,Low,0,2023-09-05,4.0,Phone,Agent Diego,2023,9
+TKT0071,CUS0103,2024-08-23,13:12,Delivery Issue,Closed,Medium,4,2024-08-27,4.0,Chat,Agent Elena,2024,8
+TKT0072,CUS0293,2024-07-24,18:01,Return Request,Closed,Medium,18,2024-08-11,2.0,Email,Agent Elena,2024,7
+TKT0073,CUS0303,2024-11-06,12:59,Delivery Issue,Open,High,12,,,Email,Agent Elena,2024,11
+TKT0074,CUS0429,2022-12-12,08:32,Installation Help,Escalated,High,21,,,Email,Agent Ana,2022,12
+TKT0075,CUS0389,2024-04-08,10:42,Return Request,Escalated,High,14,,,Chat,Agent Ana,2024,4
+TKT0076,CUS0016,2023-04-30,16:02,Technical Support,Open,High,6,,,In-Person,Agent Elena,2023,4
+TKT0077,CUS0269,2024-11-11,08:22,Technical Support,Open,Low,4,,,In-Person,Agent Ana,2024,11
+TKT0078,CUS0204,2024-01-11,11:27,Return Request,Resolved,Critical,9,2024-01-20,2.0,Phone,Agent Diego,2024,1
+TKT0079,CUS0495,2024-05-02,11:09,Delivery Issue,In Progress,Critical,15,,,Phone,Agent Carla,2024,5
+TKT0080,CUS0102,2023-04-19,16:52,Billing,Resolved,Critical,3,2023-04-22,5.0,Phone,Agent Carla,2023,4
+TKT0081,CUS0111,2023-05-29,12:59,Delivery Issue,Escalated,Critical,4,,,Phone,Agent Bruno,2023,5
+TKT0082,CUS0270,2023-10-19,12:15,Warranty Claim,Resolved,High,9,2023-10-28,3.0,Email,Agent Elena,2023,10
+TKT0083,CUS0348,2023-01-03,09:42,Return Request,Escalated,Low,14,,,In-Person,Agent Bruno,2023,1
+TKT0084,CUS0353,2024-09-08,12:41,Technical Support,In Progress,Critical,22,,,Phone,Agent Carla,2024,9
+TKT0085,CUS0180,2023-06-01,12:09,Product Info,Escalated,High,20,,,Chat,Agent Elena,2023,6
+TKT0086,CUS0181,2023-11-03,11:08,Return Request,Resolved,Medium,27,2023-11-30,4.0,In-Person,Agent Diego,2023,11
+TKT0087,CUS0297,2023-11-17,10:14,Warranty Claim,Open,Low,5,,,In-Person,Agent Ana,2023,11
+TKT0088,CUS0328,2024-02-10,13:05,Return Request,In Progress,Low,28,,,Chat,Agent Diego,2024,2
+TKT0089,CUS0081,2024-02-06,10:31,Billing,In Progress,High,11,,,Chat,Agent Carla,2024,2
+TKT0090,CUS0317,2024-02-08,12:21,Billing,In Progress,Critical,30,,,Phone,Agent Ana,2024,2
+TKT0091,CUS0127,2024-09-07,14:33,Technical Support,Open,Critical,3,,,Phone,Agent Ana,2024,9
+TKT0092,CUS0279,2023-12-20,10:12,Technical Support,In Progress,Medium,17,,,Phone,Agent Elena,2023,12
+TKT0093,CUS0053,2024-03-10,15:56,Warranty Claim,Resolved,Low,3,2024-03-13,3.0,Email,Agent Carla,2024,3
+TKT0094,CUS0108,2024-09-14,08:45,Technical Support,Escalated,Critical,13,,,Email,Agent Elena,2024,9
+TKT0095,CUS0028,2023-05-10,14:43,Product Info,Resolved,High,6,2023-05-16,5.0,Phone,Agent Diego,2023,5
+TKT0096,CUS0393,2023-12-31,14:43,Delivery Issue,Closed,Medium,14,2024-01-14,5.0,Chat,Agent Ana,2023,12
+TKT0097,CUS0025,2022-03-07,15:18,Billing,In Progress,Low,2,,,Chat,Agent Carla,2022,3
+TKT0098,CUS0467,2022-01-03,16:16,Return Request,Closed,Medium,29,2022-02-01,4.0,Chat,Agent Carla,2022,1
+TKT0099,CUS0171,2023-09-09,08:44,Warranty Claim,In Progress,Critical,17,,,Phone,Agent Ana,2023,9
+TKT0100,CUS0485,2023-02-25,18:52,Delivery Issue,Resolved,Low,20,2023-03-17,5.0,Email,Agent Diego,2023,2
+TKT0101,CUS0404,2022-06-28,15:32,Installation Help,Closed,High,27,2022-07-25,4.0,In-Person,Agent Elena,2022,6
+TKT0102,CUS0359,2023-08-09,14:05,Technical Support,Closed,Low,12,2023-08-21,4.0,Email,Agent Bruno,2023,8
+TKT0103,CUS0462,2022-07-11,10:30,Product Info,Closed,Critical,22,2022-08-02,5.0,Phone,Agent Carla,2022,7
+TKT0104,CUS0475,2024-03-04,13:56,Installation Help,Resolved,Critical,27,2024-03-31,4.0,In-Person,Agent Ana,2024,3
+TKT0105,CUS0133,2024-04-20,13:14,Return Request,Resolved,Medium,18,2024-05-08,4.0,Phone,Agent Carla,2024,4
+TKT0106,CUS0295,2023-07-06,13:59,Return Request,Closed,Medium,25,2023-07-31,5.0,Chat,Agent Ana,2023,7
+TKT0107,CUS0048,2023-05-22,13:35,Billing,Escalated,Critical,25,,,Email,Agent Carla,2023,5
+TKT0108,CUS0384,2024-03-03,14:30,Billing,Open,Low,8,,,Chat,Agent Bruno,2024,3
+TKT0109,CUS0108,2024-06-22,10:52,Installation Help,Escalated,Low,3,,,Email,Agent Diego,2024,6
+TKT0110,CUS0370,2022-05-09,15:28,Delivery Issue,In Progress,Medium,10,,,Phone,Agent Diego,2022,5
+TKT0111,CUS0495,2024-12-30,12:19,Delivery Issue,Open,Medium,26,,,Phone,Agent Ana,2024,12
+TKT0112,CUS0282,2024-09-05,11:57,Return Request,Escalated,Medium,13,,,Chat,Agent Ana,2024,9
+TKT0113,CUS0455,2022-07-24,12:28,Technical Support,Open,Low,1,,,Email,Agent Elena,2022,7
+TKT0114,CUS0325,2024-12-24,10:13,Warranty Claim,Open,Medium,8,,,Chat,Agent Bruno,2024,12
+TKT0115,CUS0046,2023-10-09,15:21,Installation Help,Resolved,Critical,5,2023-10-14,2.0,In-Person,Agent Elena,2023,10
+TKT0116,CUS0294,2022-11-27,14:38,Delivery Issue,In Progress,Critical,4,,,Email,Agent Diego,2022,11
+TKT0117,CUS0268,2022-10-20,11:24,Billing,Resolved,Low,26,2022-11-15,5.0,Email,Agent Carla,2022,10
+TKT0118,CUS0393,2024-07-06,12:21,Installation Help,Closed,Critical,9,2024-07-15,4.0,Email,Agent Elena,2024,7
+TKT0119,CUS0412,2024-10-07,10:58,Technical Support,In Progress,High,1,,,Phone,Agent Bruno,2024,10
+TKT0120,CUS0293,2023-11-17,11:48,Billing,Resolved,Medium,7,2023-11-24,3.0,Chat,Agent Bruno,2023,11
+TKT0121,CUS0493,2023-04-24,13:02,Technical Support,Open,Critical,23,,,In-Person,Agent Carla,2023,4
+TKT0122,CUS0139,2023-10-26,14:53,Delivery Issue,Escalated,Medium,20,,,Chat,Agent Ana,2023,10
+TKT0123,CUS0215,2024-11-16,18:43,Delivery Issue,Open,Low,18,,,Email,Agent Carla,2024,11
+TKT0124,CUS0028,2023-12-04,12:05,Product Info,Resolved,Low,16,2023-12-20,4.0,Email,Agent Ana,2023,12
+TKT0125,CUS0149,2022-09-08,10:08,Return Request,Resolved,Low,30,2022-10-08,2.0,Chat,Agent Ana,2022,9
+TKT0126,CUS0026,2024-09-24,14:46,Product Info,Closed,Low,9,2024-10-03,2.0,Email,Agent Ana,2024,9
+TKT0127,CUS0492,2023-05-05,13:41,Installation Help,Closed,Low,5,2023-05-10,3.0,Email,Agent Diego,2023,5
+TKT0128,CUS0004,2022-06-27,11:02,Installation Help,In Progress,Low,4,,,Chat,Agent Diego,2022,6
+TKT0129,CUS0403,2024-04-20,18:18,Delivery Issue,Escalated,High,9,,,Chat,Agent Carla,2024,4
+TKT0130,CUS0211,2024-12-20,14:28,Delivery Issue,Escalated,High,24,,,Chat,Agent Bruno,2024,12
+TKT0131,CUS0140,2023-12-16,14:11,Delivery Issue,Escalated,Medium,1,,,In-Person,Agent Carla,2023,12
+TKT0132,CUS0347,2022-08-29,18:38,Return Request,Resolved,Medium,16,2022-09-14,5.0,Phone,Agent Elena,2022,8
+TKT0133,CUS0261,2022-06-22,17:23,Warranty Claim,In Progress,Critical,22,,,Chat,Agent Diego,2022,6
+TKT0134,CUS0247,2023-01-08,11:32,Return Request,Open,Medium,30,,,Chat,Agent Carla,2023,1
+TKT0135,CUS0236,2023-07-31,14:44,Installation Help,Escalated,Critical,9,,,Email,Agent Bruno,2023,7
+TKT0136,CUS0257,2023-07-10,17:27,Billing,Closed,High,18,2023-07-28,5.0,Chat,Agent Carla,2023,7
+TKT0137,CUS0431,2024-08-06,11:22,Billing,In Progress,Critical,6,,,In-Person,Agent Elena,2024,8
+TKT0138,CUS0314,2024-09-19,16:49,Billing,Closed,Medium,10,2024-09-29,5.0,Chat,Agent Carla,2024,9
+TKT0139,CUS0064,2023-08-26,17:57,Technical Support,Resolved,Low,0,2023-08-26,4.0,Chat,Agent Carla,2023,8
+TKT0140,CUS0443,2022-07-11,09:29,Warranty Claim,In Progress,Medium,16,,,Email,Agent Bruno,2022,7
+TKT0141,CUS0347,2023-09-01,14:40,Product Info,Open,High,26,,,In-Person,Agent Ana,2023,9
+TKT0142,CUS0199,2023-04-20,10:35,Installation Help,Closed,Low,27,2023-05-17,2.0,Email,Agent Bruno,2023,4
+TKT0143,CUS0479,2022-09-29,08:33,Warranty Claim,Escalated,Medium,13,,,In-Person,Agent Bruno,2022,9
+TKT0144,CUS0300,2022-08-11,14:37,Billing,Open,Low,0,,,In-Person,Agent Carla,2022,8
+TKT0145,CUS0106,2024-07-31,08:02,Installation Help,Escalated,High,30,,,Chat,Agent Elena,2024,7
+TKT0146,CUS0363,2024-05-12,14:08,Return Request,Closed,High,2,2024-05-14,4.0,In-Person,Agent Elena,2024,5
+TKT0147,CUS0147,2022-01-19,11:04,Delivery Issue,Open,Medium,4,,,Chat,Agent Ana,2022,1
+TKT0148,CUS0060,2023-11-25,08:09,Billing,In Progress,Critical,2,,,Phone,Agent Carla,2023,11
+TKT0149,CUS0227,2024-04-10,11:54,Warranty Claim,Escalated,Medium,19,,,In-Person,Agent Carla,2024,4
+TKT0150,CUS0084,2024-05-03,10:48,Technical Support,In Progress,Medium,12,,,Email,Agent Elena,2024,5
+TKT0151,CUS0465,2022-12-04,15:22,Billing,Escalated,High,0,,,Chat,Agent Ana,2022,12
+TKT0152,CUS0316,2023-07-15,11:46,Delivery Issue,Closed,Critical,6,2023-07-21,5.0,Email,Agent Bruno,2023,7
+TKT0153,CUS0347,2023-07-10,12:17,Delivery Issue,Escalated,Medium,8,,,In-Person,Agent Bruno,2023,7
+TKT0154,CUS0480,2024-03-06,18:18,Warranty Claim,Resolved,Low,8,2024-03-14,1.0,Email,Agent Carla,2024,3
+TKT0155,CUS0314,2024-05-25,08:20,Product Info,Resolved,Medium,17,2024-06-11,4.0,Email,Agent Diego,2024,5
+TKT0156,CUS0322,2023-12-01,14:54,Installation Help,In Progress,Low,26,,,Chat,Agent Ana,2023,12
+TKT0157,CUS0285,2023-01-04,08:07,Billing,In Progress,High,24,,,Phone,Agent Elena,2023,1
+TKT0158,CUS0364,2024-01-06,14:59,Delivery Issue,In Progress,Low,1,,,Phone,Agent Carla,2024,1
+TKT0159,CUS0488,2024-08-09,16:44,Warranty Claim,Open,Medium,27,,,Chat,Agent Carla,2024,8
+TKT0160,CUS0113,2022-09-21,11:50,Installation Help,Resolved,Medium,4,2022-09-25,4.0,Chat,Agent Diego,2022,9
+TKT0161,CUS0006,2024-11-14,10:26,Return Request,In Progress,High,21,,,In-Person,Agent Diego,2024,11
+TKT0162,CUS0288,2024-01-13,17:51,Product Info,Resolved,High,19,2024-02-01,5.0,Email,Agent Diego,2024,1
+TKT0163,CUS0074,2022-08-09,18:07,Installation Help,Closed,Low,1,2022-08-10,2.0,Phone,Agent Ana,2022,8
+TKT0164,CUS0055,2022-10-08,15:41,Installation Help,Resolved,High,3,2022-10-11,3.0,Chat,Agent Elena,2022,10
+TKT0165,CUS0083,2023-07-12,15:15,Product Info,Closed,High,10,2023-07-22,3.0,In-Person,Agent Elena,2023,7
+TKT0166,CUS0317,2024-10-23,11:52,Delivery Issue,Escalated,Critical,8,,,Chat,Agent Ana,2024,10
+TKT0167,CUS0155,2024-07-26,11:47,Warranty Claim,Closed,Low,27,2024-08-22,4.0,Chat,Agent Bruno,2024,7
+TKT0168,CUS0253,2024-12-02,09:44,Product Info,In Progress,Medium,8,,,Chat,Agent Elena,2024,12
+TKT0169,CUS0126,2022-06-03,09:08,Product Info,Open,Low,17,,,Chat,Agent Elena,2022,6
+TKT0170,CUS0102,2023-07-31,16:21,Product Info,Escalated,High,19,,,Email,Agent Diego,2023,7
+TKT0171,CUS0310,2024-04-10,12:01,Installation Help,Closed,Critical,3,2024-04-13,5.0,Chat,Agent Bruno,2024,4
+TKT0172,CUS0048,2023-09-20,17:37,Technical Support,Open,Medium,12,,,In-Person,Agent Bruno,2023,9
+TKT0173,CUS0460,2024-02-22,11:17,Billing,Resolved,Medium,14,2024-03-07,5.0,In-Person,Agent Carla,2024,2
+TKT0174,CUS0288,2024-01-22,13:54,Technical Support,Open,High,26,,,In-Person,Agent Elena,2024,1
+TKT0175,CUS0348,2022-04-25,13:31,Technical Support,Closed,Critical,2,2022-04-27,4.0,Email,Agent Diego,2022,4
+TKT0176,CUS0179,2023-01-20,09:59,Delivery Issue,In Progress,Critical,0,,,In-Person,Agent Diego,2023,1
+TKT0177,CUS0082,2023-08-07,08:33,Product Info,In Progress,Medium,22,,,Phone,Agent Carla,2023,8
+TKT0178,CUS0427,2022-02-25,16:32,Technical Support,Resolved,Critical,1,2022-02-26,5.0,In-Person,Agent Ana,2022,2
+TKT0179,CUS0178,2024-01-07,09:28,Warranty Claim,Open,High,24,,,In-Person,Agent Diego,2024,1
+TKT0180,CUS0384,2024-08-21,12:26,Warranty Claim,Escalated,Critical,19,,,Phone,Agent Bruno,2024,8
+TKT0181,CUS0482,2024-12-07,11:11,Technical Support,In Progress,Low,9,,,Phone,Agent Ana,2024,12
+TKT0182,CUS0197,2024-01-26,13:26,Installation Help,In Progress,Medium,4,,,Email,Agent Elena,2024,1
+TKT0183,CUS0149,2022-05-11,17:08,Billing,In Progress,Low,4,,,Email,Agent Carla,2022,5
+TKT0184,CUS0037,2023-12-04,17:27,Delivery Issue,Escalated,Low,21,,,Email,Agent Carla,2023,12
+TKT0185,CUS0245,2022-03-02,08:09,Return Request,Closed,Medium,8,2022-03-10,2.0,Phone,Agent Elena,2022,3
+TKT0186,CUS0419,2022-05-24,11:47,Technical Support,Escalated,Critical,2,,,Phone,Agent Elena,2022,5
+TKT0187,CUS0192,2023-12-01,18:40,Product Info,Resolved,High,26,2023-12-27,4.0,Chat,Agent Diego,2023,12
+TKT0188,CUS0081,2024-03-02,10:59,Billing,Resolved,High,0,2024-03-02,4.0,Email,Agent Elena,2024,3
+TKT0189,CUS0341,2024-11-27,13:40,Warranty Claim,Open,Low,15,,,Phone,Agent Carla,2024,11
+TKT0190,CUS0345,2022-06-09,12:49,Billing,Closed,Medium,2,2022-06-11,5.0,Phone,Agent Carla,2022,6
+TKT0191,CUS0191,2023-05-28,18:48,Delivery Issue,Escalated,Low,20,,,Phone,Agent Elena,2023,5
+TKT0192,CUS0292,2022-10-10,14:22,Installation Help,In Progress,Critical,1,,,In-Person,Agent Elena,2022,10
+TKT0193,CUS0340,2022-02-18,09:07,Return Request,Closed,Critical,11,2022-03-01,4.0,Chat,Agent Bruno,2022,2
+TKT0194,CUS0143,2022-04-10,08:51,Installation Help,Open,Critical,4,,,Phone,Agent Carla,2022,4
+TKT0195,CUS0151,2023-02-08,11:03,Return Request,Closed,Medium,10,2023-02-18,4.0,Phone,Agent Bruno,2023,2
+TKT0196,CUS0001,2022-07-23,13:03,Technical Support,In Progress,Low,21,,,Email,Agent Diego,2022,7
+TKT0197,CUS0167,2023-09-04,18:43,Installation Help,Open,Critical,13,,,Phone,Agent Ana,2023,9
+TKT0198,CUS0061,2024-04-11,18:37,Billing,In Progress,High,8,,,Email,Agent Diego,2024,4
+TKT0199,CUS0021,2022-02-01,18:49,Technical Support,Escalated,Critical,11,,,Chat,Agent Carla,2022,2
+TKT0200,CUS0406,2022-01-14,17:09,Billing,Closed,High,7,2022-01-21,5.0,Email,Agent Ana,2022,1
+TKT0201,CUS0101,2024-11-01,13:29,Product Info,Closed,Critical,25,2024-11-26,4.0,Email,Agent Ana,2024,11
+TKT0202,CUS0476,2023-06-30,13:44,Billing,Resolved,High,18,2023-07-18,2.0,Email,Agent Carla,2023,6
+TKT0203,CUS0221,2024-02-25,14:56,Warranty Claim,Open,Low,29,,,Chat,Agent Elena,2024,2
+TKT0204,CUS0460,2022-07-17,09:58,Product Info,Closed,Medium,19,2022-08-05,5.0,Chat,Agent Carla,2022,7
+TKT0205,CUS0310,2024-04-19,13:04,Billing,Closed,Low,6,2024-04-25,3.0,Chat,Agent Ana,2024,4
+TKT0206,CUS0186,2023-08-18,16:50,Warranty Claim,Open,Medium,27,,,Email,Agent Elena,2023,8
+TKT0207,CUS0181,2024-10-16,12:42,Warranty Claim,In Progress,High,21,,,Phone,Agent Diego,2024,10
+TKT0208,CUS0205,2024-09-04,13:25,Warranty Claim,Resolved,Medium,11,2024-09-15,4.0,In-Person,Agent Diego,2024,9
+TKT0209,CUS0158,2024-11-16,09:44,Installation Help,In Progress,Low,0,,,Phone,Agent Ana,2024,11
+TKT0210,CUS0462,2023-10-07,09:20,Warranty Claim,Resolved,Low,11,2023-10-18,4.0,Phone,Agent Diego,2023,10
+TKT0211,CUS0001,2022-10-31,16:34,Warranty Claim,Closed,Critical,23,2022-11-23,4.0,Phone,Agent Diego,2022,10
+TKT0212,CUS0298,2023-11-17,16:11,Installation Help,Closed,High,13,2023-11-30,3.0,Email,Agent Bruno,2023,11
+TKT0213,CUS0129,2022-11-25,10:36,Delivery Issue,Escalated,High,3,,,Email,Agent Elena,2022,11
+TKT0214,CUS0453,2023-12-15,10:49,Warranty Claim,Open,Critical,1,,,Chat,Agent Diego,2023,12
+TKT0215,CUS0025,2024-11-28,12:40,Billing,Closed,High,16,2024-12-14,4.0,Email,Agent Ana,2024,11
+TKT0216,CUS0005,2023-05-11,18:09,Warranty Claim,Resolved,Critical,16,2023-05-27,4.0,Email,Agent Ana,2023,5
+TKT0217,CUS0408,2023-01-18,11:55,Delivery Issue,Escalated,Critical,29,,,Phone,Agent Ana,2023,1
+TKT0218,CUS0042,2024-05-30,11:59,Delivery Issue,Resolved,Low,9,2024-06-08,3.0,Email,Agent Carla,2024,5
+TKT0219,CUS0197,2023-07-28,16:30,Product Info,Resolved,Low,4,2023-08-01,5.0,Email,Agent Ana,2023,7
+TKT0220,CUS0223,2022-08-12,18:49,Product Info,Open,Medium,24,,,Chat,Agent Diego,2022,8
+TKT0221,CUS0265,2024-11-30,13:04,Technical Support,Open,Medium,1,,,In-Person,Agent Bruno,2024,11
+TKT0222,CUS0246,2022-01-19,09:54,Warranty Claim,Escalated,High,10,,,Chat,Agent Diego,2022,1
+TKT0223,CUS0275,2023-07-09,14:58,Delivery Issue,Open,Low,23,,,In-Person,Agent Carla,2023,7
+TKT0224,CUS0254,2022-07-04,15:09,Installation Help,Closed,Medium,16,2022-07-20,4.0,Chat,Agent Ana,2022,7
+TKT0225,CUS0058,2023-12-08,15:30,Product Info,Open,Low,9,,,Email,Agent Diego,2023,12
+TKT0226,CUS0343,2022-07-02,16:31,Installation Help,Escalated,Medium,14,,,Email,Agent Diego,2022,7
+TKT0227,CUS0152,2024-07-11,15:47,Technical Support,Escalated,High,29,,,Chat,Agent Diego,2024,7
+TKT0228,CUS0065,2022-02-26,18:52,Warranty Claim,Closed,Medium,15,2022-03-13,1.0,Chat,Agent Elena,2022,2
+TKT0229,CUS0213,2023-11-20,13:36,Product Info,Open,Critical,1,,,Email,Agent Elena,2023,11
+TKT0230,CUS0183,2024-01-14,11:00,Delivery Issue,Escalated,Critical,20,,,Chat,Agent Carla,2024,1
+TKT0231,CUS0252,2024-07-10,13:16,Delivery Issue,Resolved,Medium,1,2024-07-11,4.0,Phone,Agent Diego,2024,7
+TKT0232,CUS0384,2024-12-29,17:33,Return Request,Resolved,High,15,2025-01-13,1.0,In-Person,Agent Bruno,2024,12
+TKT0233,CUS0326,2023-04-01,17:57,Product Info,Open,High,20,,,Phone,Agent Bruno,2023,4
+TKT0234,CUS0032,2023-08-20,09:28,Installation Help,Closed,High,6,2023-08-26,5.0,Phone,Agent Diego,2023,8
+TKT0235,CUS0395,2023-08-21,08:59,Warranty Claim,In Progress,Low,26,,,Email,Agent Elena,2023,8
+TKT0236,CUS0332,2024-12-06,17:20,Technical Support,Closed,Critical,19,2024-12-25,4.0,Email,Agent Bruno,2024,12
+TKT0237,CUS0345,2023-06-25,16:45,Warranty Claim,Resolved,High,23,2023-07-18,4.0,Chat,Agent Carla,2023,6
+TKT0238,CUS0017,2022-12-17,15:01,Return Request,In Progress,High,26,,,Phone,Agent Bruno,2022,12
+TKT0239,CUS0434,2022-08-28,15:28,Installation Help,Escalated,High,10,,,Phone,Agent Elena,2022,8
+TKT0240,CUS0412,2024-08-31,11:32,Technical Support,Open,Critical,21,,,In-Person,Agent Elena,2024,8
+TKT0241,CUS0132,2023-03-07,16:36,Billing,Closed,High,24,2023-03-31,5.0,Phone,Agent Ana,2023,3
+TKT0242,CUS0399,2024-07-07,16:44,Installation Help,In Progress,Critical,29,,,Chat,Agent Elena,2024,7
+TKT0243,CUS0408,2023-07-08,09:32,Technical Support,Closed,Low,23,2023-07-31,4.0,In-Person,Agent Elena,2023,7
+TKT0244,CUS0391,2024-11-04,09:11,Delivery Issue,In Progress,High,6,,,Email,Agent Ana,2024,11
+TKT0245,CUS0121,2024-06-14,16:44,Product Info,Closed,Low,17,2024-07-01,5.0,Chat,Agent Bruno,2024,6
+TKT0246,CUS0018,2023-09-16,17:35,Warranty Claim,Closed,High,2,2023-09-18,5.0,Email,Agent Bruno,2023,9
+TKT0247,CUS0057,2022-10-22,13:42,Delivery Issue,Closed,Critical,26,2022-11-17,2.0,Email,Agent Ana,2022,10
+TKT0248,CUS0246,2023-07-24,09:20,Return Request,Closed,High,26,2023-08-19,3.0,Chat,Agent Carla,2023,7
+TKT0249,CUS0086,2023-10-10,12:47,Delivery Issue,Resolved,Low,21,2023-10-31,4.0,Phone,Agent Elena,2023,10
+TKT0250,CUS0350,2022-11-30,12:48,Installation Help,In Progress,Medium,6,,,Chat,Agent Ana,2022,11
+TKT0251,CUS0498,2023-01-19,15:41,Warranty Claim,Closed,Medium,4,2023-01-23,3.0,Phone,Agent Diego,2023,1
+TKT0252,CUS0329,2023-02-07,16:36,Installation Help,Closed,High,10,2023-02-17,5.0,Chat,Agent Elena,2023,2
+TKT0253,CUS0052,2023-09-17,08:00,Installation Help,Escalated,Critical,27,,,Phone,Agent Bruno,2023,9
+TKT0254,CUS0164,2022-06-28,15:21,Billing,In Progress,Medium,0,,,Phone,Agent Carla,2022,6
+TKT0255,CUS0323,2024-09-18,17:22,Product Info,In Progress,Medium,2,,,Email,Agent Diego,2024,9
+TKT0256,CUS0290,2024-07-26,08:19,Delivery Issue,Escalated,Medium,18,,,Phone,Agent Ana,2024,7
+TKT0257,CUS0411,2023-10-31,16:23,Return Request,Open,Critical,21,,,Email,Agent Bruno,2023,10
+TKT0258,CUS0482,2024-09-11,11:32,Warranty Claim,Resolved,Critical,7,2024-09-18,3.0,In-Person,Agent Bruno,2024,9
+TKT0259,CUS0011,2024-07-05,08:11,Return Request,In Progress,Medium,3,,,In-Person,Agent Diego,2024,7
+TKT0260,CUS0109,2024-11-20,13:37,Billing,Open,Medium,26,,,In-Person,Agent Carla,2024,11
+TKT0261,CUS0268,2022-08-26,08:59,Installation Help,In Progress,Low,29,,,Email,Agent Diego,2022,8
+TKT0262,CUS0397,2023-07-10,12:23,Return Request,Resolved,Critical,15,2023-07-25,2.0,Phone,Agent Diego,2023,7
+TKT0263,CUS0428,2024-02-27,13:07,Technical Support,Closed,High,22,2024-03-20,5.0,Phone,Agent Diego,2024,2
+TKT0264,CUS0084,2022-03-07,16:19,Delivery Issue,Closed,Medium,12,2022-03-19,5.0,Email,Agent Diego,2022,3
+TKT0265,CUS0188,2022-01-14,16:19,Return Request,In Progress,Critical,28,,,Email,Agent Elena,2022,1
+TKT0266,CUS0010,2024-02-05,11:53,Billing,Open,Medium,29,,,In-Person,Agent Elena,2024,2
+TKT0267,CUS0425,2024-05-24,17:24,Installation Help,Open,Low,15,,,Email,Agent Bruno,2024,5
+TKT0268,CUS0209,2024-11-01,17:50,Technical Support,Closed,Low,5,2024-11-06,3.0,Phone,Agent Diego,2024,11
+TKT0269,CUS0344,2022-02-22,08:13,Product Info,Escalated,Low,3,,,In-Person,Agent Bruno,2022,2
+TKT0270,CUS0400,2023-12-04,17:39,Billing,Open,Critical,28,,,In-Person,Agent Bruno,2023,12
+TKT0271,CUS0264,2022-04-03,15:28,Technical Support,Open,Low,25,,,Phone,Agent Carla,2022,4
+TKT0272,CUS0067,2023-09-21,18:39,Warranty Claim,In Progress,Critical,17,,,In-Person,Agent Elena,2023,9
+TKT0273,CUS0184,2022-06-12,15:09,Warranty Claim,Closed,Low,2,2022-06-14,4.0,Chat,Agent Diego,2022,6
+TKT0274,CUS0444,2023-04-07,12:24,Installation Help,Resolved,Low,29,2023-05-06,5.0,In-Person,Agent Diego,2023,4
+TKT0275,CUS0151,2023-07-04,12:02,Product Info,In Progress,High,21,,,Email,Agent Elena,2023,7
+TKT0276,CUS0203,2023-05-22,18:29,Product Info,Resolved,Low,26,2023-06-17,3.0,In-Person,Agent Carla,2023,5
+TKT0277,CUS0009,2022-05-24,16:56,Delivery Issue,Open,Critical,22,,,Chat,Agent Ana,2022,5
+TKT0278,CUS0487,2023-06-19,10:37,Return Request,Escalated,Critical,7,,,In-Person,Agent Carla,2023,6
+TKT0279,CUS0252,2023-12-16,16:16,Technical Support,Closed,High,6,2023-12-22,2.0,Phone,Agent Diego,2023,12
+TKT0280,CUS0266,2024-03-26,17:40,Product Info,Resolved,Critical,23,2024-04-18,5.0,Phone,Agent Diego,2024,3
+TKT0281,CUS0275,2023-04-26,18:28,Product Info,Resolved,Critical,0,2023-04-26,2.0,Chat,Agent Elena,2023,4
+TKT0282,CUS0189,2023-07-25,09:07,Delivery Issue,Open,Medium,16,,,Chat,Agent Elena,2023,7
+TKT0283,CUS0266,2023-05-01,12:33,Warranty Claim,Closed,High,4,2023-05-05,4.0,Email,Agent Bruno,2023,5
+TKT0284,CUS0468,2024-03-07,09:45,Product Info,Escalated,High,3,,,Chat,Agent Elena,2024,3
+TKT0285,CUS0302,2024-08-15,13:11,Installation Help,Escalated,Medium,6,,,Email,Agent Carla,2024,8
+TKT0286,CUS0102,2022-01-16,14:14,Delivery Issue,In Progress,Low,23,,,Email,Agent Ana,2022,1
+TKT0287,CUS0365,2023-08-16,10:54,Billing,In Progress,Critical,14,,,Chat,Agent Carla,2023,8
+TKT0288,CUS0157,2024-05-23,15:37,Return Request,Open,Low,5,,,Email,Agent Elena,2024,5
+TKT0289,CUS0473,2023-04-22,16:35,Billing,Escalated,Critical,2,,,Email,Agent Elena,2023,4
+TKT0290,CUS0022,2024-06-30,09:57,Warranty Claim,Escalated,Critical,21,,,Phone,Agent Ana,2024,6
+TKT0291,CUS0165,2024-11-11,16:34,Technical Support,Closed,Critical,5,2024-11-16,3.0,Email,Agent Carla,2024,11
+TKT0292,CUS0174,2022-01-10,16:16,Warranty Claim,In Progress,Medium,4,,,In-Person,Agent Diego,2022,1
+TKT0293,CUS0455,2022-08-03,16:13,Delivery Issue,In Progress,Low,25,,,In-Person,Agent Carla,2022,8
+TKT0294,CUS0138,2022-12-14,11:19,Return Request,Open,High,6,,,Email,Agent Carla,2022,12
+TKT0295,CUS0381,2024-03-26,17:53,Product Info,Open,Critical,23,,,Phone,Agent Diego,2024,3
+TKT0296,CUS0049,2022-01-07,10:53,Technical Support,Resolved,Low,15,2022-01-22,4.0,In-Person,Agent Carla,2022,1
+TKT0297,CUS0474,2023-01-19,13:32,Billing,Open,High,10,,,Chat,Agent Ana,2023,1
+TKT0298,CUS0395,2022-08-19,11:56,Delivery Issue,Open,Low,5,,,In-Person,Agent Carla,2022,8
+TKT0299,CUS0353,2023-03-15,12:28,Warranty Claim,Escalated,Medium,20,,,Chat,Agent Elena,2023,3
+TKT0300,CUS0210,2023-05-22,11:53,Warranty Claim,Resolved,Medium,0,2023-05-22,5.0,Chat,Agent Carla,2023,5
+TKT0301,CUS0114,2022-12-06,13:26,Billing,Open,High,18,,,Phone,Agent Ana,2022,12
+TKT0302,CUS0255,2024-04-23,17:29,Warranty Claim,Escalated,Low,24,,,Email,Agent Diego,2024,4
+TKT0303,CUS0069,2023-05-03,12:11,Billing,In Progress,High,29,,,Phone,Agent Ana,2023,5
+TKT0304,CUS0297,2024-04-13,15:53,Technical Support,Resolved,Low,7,2024-04-20,5.0,In-Person,Agent Elena,2024,4
+TKT0305,CUS0187,2022-11-26,08:01,Product Info,Resolved,Low,25,2022-12-21,4.0,Chat,Agent Bruno,2022,11
+TKT0306,CUS0489,2022-08-23,10:12,Warranty Claim,Escalated,Critical,10,,,Phone,Agent Bruno,2022,8
+TKT0307,CUS0471,2023-12-16,12:24,Delivery Issue,Closed,Medium,0,2023-12-16,5.0,Email,Agent Carla,2023,12
+TKT0308,CUS0394,2022-01-14,16:46,Billing,Closed,Low,26,2022-02-09,4.0,Phone,Agent Bruno,2022,1
+TKT0309,CUS0356,2023-02-01,12:14,Installation Help,In Progress,Medium,26,,,Chat,Agent Bruno,2023,2
+TKT0310,CUS0205,2024-06-21,12:39,Technical Support,Closed,Critical,18,2024-07-09,4.0,Phone,Agent Diego,2024,6
+TKT0311,CUS0129,2024-03-16,12:23,Billing,Closed,Medium,3,2024-03-19,4.0,Phone,Agent Bruno,2024,3
+TKT0312,CUS0037,2022-03-16,14:06,Return Request,Closed,Medium,29,2022-04-14,5.0,Phone,Agent Elena,2022,3
+TKT0313,CUS0498,2024-09-20,08:08,Technical Support,Closed,Critical,10,2024-09-30,5.0,Phone,Agent Elena,2024,9
+TKT0314,CUS0020,2023-09-09,15:38,Billing,Resolved,Low,1,2023-09-10,5.0,Chat,Agent Diego,2023,9
+TKT0315,CUS0320,2024-08-14,08:11,Installation Help,Escalated,High,26,,,Phone,Agent Ana,2024,8
+TKT0316,CUS0365,2024-12-23,13:41,Installation Help,Open,Low,29,,,Phone,Agent Diego,2024,12
+TKT0317,CUS0302,2022-04-13,09:07,Delivery Issue,Escalated,High,22,,,Chat,Agent Carla,2022,4
+TKT0318,CUS0222,2024-08-11,13:17,Return Request,Resolved,Medium,20,2024-08-31,4.0,Chat,Agent Elena,2024,8
+TKT0319,CUS0108,2023-11-02,16:31,Warranty Claim,Open,Critical,10,,,Chat,Agent Bruno,2023,11
+TKT0320,CUS0442,2023-07-22,12:16,Billing,Closed,Critical,15,2023-08-06,5.0,Phone,Agent Diego,2023,7
+TKT0321,CUS0491,2022-12-28,11:53,Installation Help,Resolved,High,0,2022-12-28,5.0,Phone,Agent Diego,2022,12
+TKT0322,CUS0019,2022-07-24,13:30,Installation Help,In Progress,Low,11,,,Chat,Agent Elena,2022,7
+TKT0323,CUS0227,2022-03-11,11:44,Installation Help,Escalated,High,8,,,Chat,Agent Carla,2022,3
+TKT0324,CUS0176,2023-08-31,10:56,Warranty Claim,Closed,Medium,30,2023-09-30,4.0,Email,Agent Ana,2023,8
+TKT0325,CUS0083,2023-09-02,18:44,Delivery Issue,Resolved,Low,16,2023-09-18,5.0,Phone,Agent Diego,2023,9
+TKT0326,CUS0296,2022-06-22,11:50,Warranty Claim,Open,Medium,12,,,Email,Agent Elena,2022,6
+TKT0327,CUS0300,2024-01-12,13:43,Billing,Resolved,Low,16,2024-01-28,4.0,In-Person,Agent Carla,2024,1
+TKT0328,CUS0222,2023-04-13,18:06,Delivery Issue,Resolved,Medium,13,2023-04-26,4.0,Phone,Agent Carla,2023,4
+TKT0329,CUS0127,2022-03-08,12:08,Technical Support,Escalated,Medium,16,,,In-Person,Agent Elena,2022,3
+TKT0330,CUS0052,2022-07-04,16:52,Billing,Open,Critical,23,,,Email,Agent Bruno,2022,7
+TKT0331,CUS0072,2023-02-23,14:14,Product Info,Open,Low,10,,,Chat,Agent Ana,2023,2
+TKT0332,CUS0478,2022-05-13,13:57,Warranty Claim,Resolved,Low,12,2022-05-25,5.0,In-Person,Agent Elena,2022,5
+TKT0333,CUS0286,2024-10-18,12:51,Warranty Claim,Escalated,Critical,30,,,Phone,Agent Diego,2024,10
+TKT0334,CUS0202,2022-03-21,16:04,Billing,Resolved,Medium,3,2022-03-24,4.0,Phone,Agent Bruno,2022,3
+TKT0335,CUS0115,2024-03-26,11:19,Return Request,Open,Medium,25,,,In-Person,Agent Ana,2024,3
+TKT0336,CUS0438,2024-01-03,12:03,Billing,Closed,Critical,25,2024-01-28,4.0,Chat,Agent Ana,2024,1
+TKT0337,CUS0086,2023-09-19,13:27,Delivery Issue,Resolved,Critical,23,2023-10-12,2.0,In-Person,Agent Ana,2023,9
+TKT0338,CUS0122,2022-01-24,11:53,Installation Help,Open,Critical,23,,,In-Person,Agent Ana,2022,1
+TKT0339,CUS0349,2023-10-05,09:26,Technical Support,Open,Medium,19,,,Email,Agent Elena,2023,10
+TKT0340,CUS0162,2023-12-15,12:51,Return Request,Open,Critical,5,,,Phone,Agent Bruno,2023,12
+TKT0341,CUS0288,2023-01-19,11:12,Delivery Issue,Open,Low,14,,,Chat,Agent Bruno,2023,1
+TKT0342,CUS0447,2023-07-14,14:11,Technical Support,Open,Medium,23,,,Email,Agent Bruno,2023,7
+TKT0343,CUS0400,2024-06-23,13:08,Return Request,Open,Critical,29,,,In-Person,Agent Carla,2024,6
+TKT0344,CUS0003,2023-10-27,08:08,Product Info,Escalated,Critical,19,,,Chat,Agent Elena,2023,10
+TKT0345,CUS0321,2022-11-16,12:16,Return Request,In Progress,Medium,1,,,Chat,Agent Elena,2022,11
+TKT0346,CUS0479,2022-08-07,18:50,Delivery Issue,Closed,Low,24,2022-08-31,2.0,Phone,Agent Carla,2022,8
+TKT0347,CUS0165,2023-10-14,18:38,Product Info,Escalated,Medium,25,,,In-Person,Agent Carla,2023,10
+TKT0348,CUS0417,2024-09-16,14:17,Billing,Open,Critical,13,,,Email,Agent Elena,2024,9
+TKT0349,CUS0131,2023-05-13,09:24,Warranty Claim,Closed,High,9,2023-05-22,4.0,In-Person,Agent Elena,2023,5
+TKT0350,CUS0076,2024-05-04,16:36,Technical Support,Open,Critical,26,,,Phone,Agent Bruno,2024,5
+TKT0351,CUS0160,2024-12-20,16:09,Installation Help,In Progress,High,11,,,In-Person,Agent Diego,2024,12
+TKT0352,CUS0411,2023-11-07,13:08,Billing,Closed,Critical,8,2023-11-15,4.0,Phone,Agent Elena,2023,11
+TKT0353,CUS0322,2024-05-16,09:50,Return Request,Closed,Medium,12,2024-05-28,3.0,Email,Agent Elena,2024,5
+TKT0354,CUS0215,2023-05-20,17:13,Product Info,Open,Critical,13,,,Phone,Agent Carla,2023,5
+TKT0355,CUS0468,2023-11-14,16:22,Return Request,Open,Low,11,,,Phone,Agent Diego,2023,11
+TKT0356,CUS0401,2023-12-10,16:05,Billing,Open,Low,8,,,In-Person,Agent Bruno,2023,12
+TKT0357,CUS0114,2024-08-12,18:45,Product Info,Open,Critical,15,,,In-Person,Agent Bruno,2024,8
+TKT0358,CUS0268,2023-08-23,15:58,Billing,Closed,Critical,10,2023-09-02,5.0,In-Person,Agent Diego,2023,8
+TKT0359,CUS0018,2022-04-15,15:10,Return Request,Open,High,10,,,Phone,Agent Diego,2022,4
+TKT0360,CUS0109,2024-09-08,09:39,Return Request,In Progress,Low,21,,,Phone,Agent Bruno,2024,9
+TKT0361,CUS0456,2024-05-21,17:54,Installation Help,In Progress,Medium,15,,,Phone,Agent Carla,2024,5
+TKT0362,CUS0326,2024-03-26,09:10,Billing,Open,Critical,16,,,Chat,Agent Diego,2024,3
+TKT0363,CUS0416,2024-07-21,14:44,Billing,Resolved,High,9,2024-07-30,5.0,Email,Agent Carla,2024,7
+TKT0364,CUS0300,2022-05-04,08:27,Return Request,Open,Medium,17,,,In-Person,Agent Ana,2022,5
+TKT0365,CUS0127,2023-12-09,08:49,Product Info,Open,Critical,7,,,Chat,Agent Bruno,2023,12
+TKT0366,CUS0272,2023-08-13,17:20,Billing,In Progress,High,20,,,Chat,Agent Bruno,2023,8
+TKT0367,CUS0491,2024-12-10,11:04,Return Request,Open,Low,30,,,Chat,Agent Carla,2024,12
+TKT0368,CUS0224,2023-12-01,17:31,Technical Support,Open,Low,18,,,Phone,Agent Bruno,2023,12
+TKT0369,CUS0069,2024-12-08,16:57,Delivery Issue,Closed,Medium,19,2024-12-27,4.0,Phone,Agent Bruno,2024,12
+TKT0370,CUS0487,2023-01-10,17:58,Delivery Issue,Closed,Medium,9,2023-01-19,2.0,Chat,Agent Diego,2023,1
+TKT0371,CUS0374,2024-10-15,18:59,Return Request,Open,Critical,26,,,Email,Agent Ana,2024,10
+TKT0372,CUS0333,2024-02-02,12:46,Installation Help,Open,Medium,5,,,Phone,Agent Ana,2024,2
+TKT0373,CUS0078,2024-04-14,18:51,Warranty Claim,Closed,High,21,2024-05-05,4.0,Phone,Agent Elena,2024,4
+TKT0374,CUS0069,2023-10-18,14:56,Billing,Open,Low,3,,,Email,Agent Elena,2023,10
+TKT0375,CUS0186,2023-06-25,08:12,Warranty Claim,Escalated,Critical,6,,,Phone,Agent Ana,2023,6
+TKT0376,CUS0422,2023-07-18,12:33,Technical Support,Escalated,Low,0,,,In-Person,Agent Carla,2023,7
+TKT0377,CUS0280,2024-10-17,18:01,Return Request,In Progress,Low,9,,,Email,Agent Ana,2024,10
+TKT0378,CUS0296,2023-03-04,11:19,Installation Help,Escalated,Medium,24,,,Chat,Agent Elena,2023,3
+TKT0379,CUS0360,2024-10-07,11:48,Installation Help,Closed,High,3,2024-10-10,4.0,In-Person,Agent Diego,2024,10
+TKT0380,CUS0008,2023-02-20,10:46,Technical Support,In Progress,Medium,6,,,In-Person,Agent Bruno,2023,2
+TKT0381,CUS0475,2024-03-05,17:37,Installation Help,In Progress,High,12,,,In-Person,Agent Bruno,2024,3
+TKT0382,CUS0289,2024-09-19,15:28,Installation Help,Resolved,High,6,2024-09-25,5.0,In-Person,Agent Ana,2024,9
+TKT0383,CUS0038,2022-08-26,11:38,Product Info,Open,Low,6,,,Phone,Agent Ana,2022,8
+TKT0384,CUS0449,2024-07-08,09:06,Product Info,Open,High,30,,,Email,Agent Carla,2024,7
+TKT0385,CUS0328,2024-10-30,12:37,Product Info,In Progress,Critical,16,,,Email,Agent Carla,2024,10
+TKT0386,CUS0495,2023-06-06,15:20,Technical Support,In Progress,Low,13,,,Chat,Agent Bruno,2023,6
+TKT0387,CUS0463,2023-04-18,17:32,Technical Support,Open,Critical,21,,,Chat,Agent Bruno,2023,4
+TKT0388,CUS0090,2023-03-25,18:20,Warranty Claim,Closed,Medium,16,2023-04-10,3.0,Phone,Agent Diego,2023,3
+TKT0389,CUS0014,2024-10-07,16:04,Billing,In Progress,Medium,22,,,In-Person,Agent Elena,2024,10
+TKT0390,CUS0271,2022-12-15,18:47,Warranty Claim,Resolved,Medium,17,2023-01-01,4.0,Phone,Agent Elena,2022,12
+TKT0391,CUS0342,2023-08-03,11:14,Billing,Open,Low,29,,,Email,Agent Carla,2023,8
+TKT0392,CUS0446,2023-05-31,08:05,Product Info,In Progress,Low,28,,,Email,Agent Elena,2023,5
+TKT0393,CUS0007,2024-08-09,17:14,Return Request,Escalated,Medium,14,,,Chat,Agent Bruno,2024,8
+TKT0394,CUS0470,2024-04-11,14:04,Product Info,Escalated,Low,21,,,Chat,Agent Ana,2024,4
+TKT0395,CUS0205,2024-11-05,12:18,Return Request,Open,High,4,,,Chat,Agent Elena,2024,11
+TKT0396,CUS0191,2024-01-30,11:17,Billing,Open,High,25,,,In-Person,Agent Elena,2024,1
+TKT0397,CUS0008,2022-07-29,11:52,Product Info,Escalated,Critical,23,,,Phone,Agent Ana,2022,7
+TKT0398,CUS0465,2023-04-24,18:33,Product Info,Open,Critical,1,,,Phone,Agent Ana,2023,4
+TKT0399,CUS0381,2023-06-10,09:55,Billing,In Progress,Critical,16,,,Email,Agent Bruno,2023,6
+TKT0400,CUS0023,2023-05-20,11:00,Return Request,Open,Medium,3,,,Email,Agent Elena,2023,5
+TKT0401,CUS0438,2024-03-24,15:09,Warranty Claim,In Progress,High,29,,,Phone,Agent Elena,2024,3
+TKT0402,CUS0341,2024-11-18,08:49,Product Info,Closed,Critical,20,2024-12-08,5.0,In-Person,Agent Elena,2024,11
+TKT0403,CUS0432,2023-02-25,13:08,Technical Support,Open,High,28,,,Chat,Agent Carla,2023,2
+TKT0404,CUS0183,2024-10-12,15:27,Installation Help,Resolved,Critical,0,2024-10-12,4.0,Chat,Agent Diego,2024,10
+TKT0405,CUS0174,2023-01-23,17:43,Return Request,Escalated,High,22,,,Email,Agent Elena,2023,1
+TKT0406,CUS0238,2023-08-30,12:56,Delivery Issue,Escalated,Critical,0,,,Chat,Agent Carla,2023,8
+TKT0407,CUS0429,2024-01-13,17:58,Product Info,Resolved,Low,18,2024-01-31,5.0,Chat,Agent Bruno,2024,1
+TKT0408,CUS0300,2024-11-03,18:22,Billing,Escalated,High,22,,,In-Person,Agent Carla,2024,11
+TKT0409,CUS0465,2023-03-11,17:32,Return Request,Closed,Critical,3,2023-03-14,5.0,In-Person,Agent Carla,2023,3
+TKT0410,CUS0091,2023-03-05,08:41,Billing,Closed,Low,16,2023-03-21,5.0,Phone,Agent Carla,2023,3
+TKT0411,CUS0283,2023-11-01,17:09,Technical Support,In Progress,Low,21,,,In-Person,Agent Ana,2023,11
+TKT0412,CUS0179,2023-11-30,13:41,Billing,Closed,Critical,23,2023-12-23,5.0,Email,Agent Elena,2023,11
+TKT0413,CUS0351,2022-03-05,14:32,Return Request,Closed,High,15,2022-03-20,5.0,Email,Agent Ana,2022,3
+TKT0414,CUS0101,2023-11-29,17:41,Technical Support,Closed,Critical,13,2023-12-12,5.0,Phone,Agent Bruno,2023,11
+TKT0415,CUS0399,2022-11-22,17:22,Delivery Issue,Escalated,Critical,24,,,Chat,Agent Bruno,2022,11
+TKT0416,CUS0448,2024-04-09,10:29,Installation Help,Resolved,Critical,17,2024-04-26,4.0,Phone,Agent Carla,2024,4
+TKT0417,CUS0126,2024-08-05,08:51,Product Info,Open,Medium,5,,,In-Person,Agent Bruno,2024,8
+TKT0418,CUS0002,2023-05-08,14:56,Installation Help,Escalated,Critical,8,,,Email,Agent Bruno,2023,5
+TKT0419,CUS0411,2024-09-11,08:43,Delivery Issue,Resolved,Critical,14,2024-09-25,3.0,Phone,Agent Elena,2024,9
+TKT0420,CUS0344,2024-09-26,10:37,Billing,Resolved,Critical,25,2024-10-21,4.0,Phone,Agent Carla,2024,9
+TKT0421,CUS0197,2024-04-08,14:09,Product Info,Closed,High,15,2024-04-23,4.0,In-Person,Agent Diego,2024,4
+TKT0422,CUS0396,2024-11-09,17:40,Product Info,Resolved,Medium,14,2024-11-23,4.0,In-Person,Agent Carla,2024,11
+TKT0423,CUS0393,2023-12-23,09:10,Installation Help,Open,Medium,8,,,Phone,Agent Diego,2023,12
+TKT0424,CUS0050,2022-01-16,13:42,Product Info,Closed,Critical,5,2022-01-21,2.0,Chat,Agent Ana,2022,1
+TKT0425,CUS0232,2024-03-27,10:06,Warranty Claim,Escalated,Medium,3,,,Phone,Agent Carla,2024,3
+TKT0426,CUS0160,2023-12-16,18:22,Installation Help,Open,Medium,2,,,In-Person,Agent Elena,2023,12
+TKT0427,CUS0410,2022-01-11,14:01,Return Request,Open,Medium,22,,,Phone,Agent Diego,2022,1
+TKT0428,CUS0493,2023-06-04,18:01,Delivery Issue,Closed,Medium,7,2023-06-11,5.0,In-Person,Agent Diego,2023,6
+TKT0429,CUS0370,2022-08-14,17:48,Technical Support,Escalated,Critical,10,,,Chat,Agent Bruno,2022,8
+TKT0430,CUS0419,2023-09-15,18:06,Product Info,Open,Critical,10,,,Chat,Agent Elena,2023,9
+TKT0431,CUS0457,2022-03-04,14:13,Warranty Claim,Escalated,High,10,,,Chat,Agent Diego,2022,3
+TKT0432,CUS0247,2024-11-13,15:07,Product Info,Escalated,Critical,18,,,Chat,Agent Carla,2024,11
+TKT0433,CUS0188,2022-04-24,17:25,Billing,Open,Low,22,,,In-Person,Agent Elena,2022,4
+TKT0434,CUS0342,2022-09-06,16:38,Return Request,In Progress,Low,16,,,Phone,Agent Ana,2022,9
+TKT0435,CUS0414,2024-05-17,09:47,Warranty Claim,Open,High,29,,,In-Person,Agent Carla,2024,5
+TKT0436,CUS0124,2022-06-12,17:33,Warranty Claim,In Progress,Low,9,,,In-Person,Agent Ana,2022,6
+TKT0437,CUS0037,2023-06-12,10:50,Product Info,Resolved,Low,16,2023-06-28,3.0,In-Person,Agent Bruno,2023,6
+TKT0438,CUS0029,2024-10-13,17:55,Installation Help,Escalated,Low,15,,,Email,Agent Diego,2024,10
+TKT0439,CUS0029,2024-09-23,15:12,Delivery Issue,Resolved,Low,14,2024-10-07,2.0,Email,Agent Ana,2024,9
+TKT0440,CUS0108,2024-03-26,12:06,Billing,Closed,Low,15,2024-04-10,3.0,Email,Agent Elena,2024,3
+TKT0441,CUS0051,2022-08-19,13:54,Warranty Claim,Closed,Medium,14,2022-09-02,2.0,Email,Agent Elena,2022,8
+TKT0442,CUS0043,2022-04-22,10:15,Billing,Closed,High,12,2022-05-04,5.0,Chat,Agent Carla,2022,4
+TKT0443,CUS0442,2023-11-14,17:01,Technical Support,In Progress,Low,16,,,Phone,Agent Diego,2023,11
+TKT0444,CUS0048,2022-10-09,09:30,Billing,Resolved,Medium,3,2022-10-12,1.0,In-Person,Agent Ana,2022,10
+TKT0445,CUS0267,2023-04-30,12:46,Billing,Open,Medium,22,,,Phone,Agent Ana,2023,4
+TKT0446,CUS0444,2023-03-17,14:48,Return Request,Resolved,Low,3,2023-03-20,1.0,Email,Agent Diego,2023,3
+TKT0447,CUS0169,2022-05-31,18:56,Product Info,Open,Critical,17,,,In-Person,Agent Carla,2022,5
+TKT0448,CUS0001,2022-12-08,13:49,Technical Support,Closed,High,23,2022-12-31,5.0,Email,Agent Carla,2022,12
+TKT0449,CUS0432,2024-01-20,17:04,Technical Support,Closed,High,29,2024-02-18,4.0,Phone,Agent Elena,2024,1
+TKT0450,CUS0027,2022-12-30,17:57,Product Info,Resolved,Low,20,2023-01-19,4.0,Phone,Agent Bruno,2022,12
+TKT0451,CUS0077,2023-10-17,12:07,Return Request,Resolved,High,17,2023-11-03,4.0,Email,Agent Diego,2023,10
+TKT0452,CUS0388,2022-12-31,14:43,Installation Help,Escalated,High,23,,,Phone,Agent Elena,2022,12
+TKT0453,CUS0138,2023-05-07,11:20,Installation Help,In Progress,Critical,13,,,In-Person,Agent Bruno,2023,5
+TKT0454,CUS0267,2022-01-14,12:04,Return Request,Resolved,Critical,24,2022-02-07,5.0,In-Person,Agent Bruno,2022,1
+TKT0455,CUS0100,2023-11-21,11:08,Warranty Claim,Closed,High,7,2023-11-28,4.0,Email,Agent Ana,2023,11
+TKT0456,CUS0338,2024-06-05,10:08,Billing,In Progress,High,13,,,Email,Agent Ana,2024,6
+TKT0457,CUS0309,2024-06-17,10:10,Technical Support,Resolved,Critical,11,2024-06-28,5.0,In-Person,Agent Carla,2024,6
+TKT0458,CUS0235,2024-10-19,17:12,Billing,Closed,Critical,22,2024-11-10,4.0,In-Person,Agent Diego,2024,10
+TKT0459,CUS0468,2023-07-24,17:18,Return Request,Open,Low,1,,,In-Person,Agent Elena,2023,7
+TKT0460,CUS0446,2022-10-13,09:40,Delivery Issue,Open,Critical,26,,,Chat,Agent Ana,2022,10
+TKT0461,CUS0122,2024-07-04,12:49,Warranty Claim,Escalated,High,16,,,In-Person,Agent Elena,2024,7
+TKT0462,CUS0474,2023-09-30,17:14,Technical Support,Closed,Low,15,2023-10-15,4.0,Email,Agent Carla,2023,9
+TKT0463,CUS0417,2022-12-24,08:24,Delivery Issue,Open,Medium,4,,,Phone,Agent Bruno,2022,12
+TKT0464,CUS0432,2024-11-02,14:07,Warranty Claim,In Progress,Low,17,,,Chat,Agent Carla,2024,11
+TKT0465,CUS0077,2022-05-15,12:55,Warranty Claim,Escalated,High,13,,,In-Person,Agent Bruno,2022,5
+TKT0466,CUS0206,2023-04-30,16:22,Installation Help,Escalated,Critical,27,,,Phone,Agent Ana,2023,4
+TKT0467,CUS0468,2024-11-08,14:52,Product Info,Resolved,Low,11,2024-11-19,4.0,In-Person,Agent Bruno,2024,11
+TKT0468,CUS0271,2022-09-20,09:04,Delivery Issue,Resolved,High,11,2022-10-01,4.0,Phone,Agent Elena,2022,9
+TKT0469,CUS0286,2022-02-21,18:37,Installation Help,In Progress,Low,30,,,Phone,Agent Diego,2022,2
+TKT0470,CUS0223,2024-04-26,09:02,Product Info,Open,High,7,,,Email,Agent Bruno,2024,4
+TKT0471,CUS0446,2024-08-30,16:23,Technical Support,Closed,Low,24,2024-09-23,1.0,Chat,Agent Diego,2024,8
+TKT0472,CUS0397,2023-12-01,08:28,Return Request,Closed,Low,14,2023-12-15,4.0,Phone,Agent Elena,2023,12
+TKT0473,CUS0469,2024-12-30,17:46,Billing,Escalated,High,10,,,In-Person,Agent Bruno,2024,12
+TKT0474,CUS0111,2022-04-13,18:21,Billing,Closed,High,6,2022-04-19,5.0,In-Person,Agent Ana,2022,4
+TKT0475,CUS0075,2023-12-25,18:20,Product Info,Open,Critical,6,,,Email,Agent Ana,2023,12
+TKT0476,CUS0091,2024-05-17,17:40,Product Info,Escalated,Medium,21,,,Phone,Agent Carla,2024,5
+TKT0477,CUS0094,2024-10-08,16:14,Warranty Claim,Escalated,Low,23,,,Email,Agent Ana,2024,10
+TKT0478,CUS0209,2024-09-30,14:14,Billing,Closed,High,16,2024-10-16,4.0,Email,Agent Diego,2024,9
+TKT0479,CUS0021,2022-11-22,14:02,Delivery Issue,Resolved,Critical,24,2022-12-16,5.0,Phone,Agent Ana,2022,11
+TKT0480,CUS0266,2024-01-14,15:18,Return Request,In Progress,Medium,4,,,Phone,Agent Diego,2024,1
+TKT0481,CUS0366,2023-04-12,11:27,Billing,Closed,Medium,26,2023-05-08,4.0,In-Person,Agent Ana,2023,4
+TKT0482,CUS0440,2022-02-02,12:04,Delivery Issue,Resolved,Low,22,2022-02-24,5.0,Phone,Agent Diego,2022,2
+TKT0483,CUS0048,2024-11-18,16:55,Product Info,Resolved,Low,8,2024-11-26,1.0,Chat,Agent Bruno,2024,11
+TKT0484,CUS0499,2024-12-23,10:08,Billing,Resolved,Medium,2,2024-12-25,3.0,Phone,Agent Bruno,2024,12
+TKT0485,CUS0321,2022-03-13,13:02,Return Request,Escalated,Low,10,,,Email,Agent Bruno,2022,3
+TKT0486,CUS0192,2022-04-17,11:50,Warranty Claim,Open,Low,9,,,Email,Agent Ana,2022,4
+TKT0487,CUS0344,2023-12-28,17:46,Warranty Claim,In Progress,Low,12,,,In-Person,Agent Bruno,2023,12
+TKT0488,CUS0351,2022-11-06,18:34,Installation Help,Escalated,Low,13,,,Phone,Agent Ana,2022,11
+TKT0489,CUS0355,2022-04-25,08:14,Return Request,Open,Medium,16,,,In-Person,Agent Diego,2022,4
+TKT0490,CUS0054,2022-07-10,11:53,Product Info,In Progress,High,11,,,Chat,Agent Diego,2022,7
+TKT0491,CUS0088,2022-03-14,13:38,Product Info,Resolved,Medium,7,2022-03-21,4.0,Chat,Agent Ana,2022,3
+TKT0492,CUS0023,2023-03-18,16:27,Installation Help,Closed,Critical,30,2023-04-17,4.0,Chat,Agent Carla,2023,3
+TKT0493,CUS0101,2024-06-11,12:34,Technical Support,Open,Medium,8,,,In-Person,Agent Ana,2024,6
+TKT0494,CUS0480,2023-05-31,10:40,Billing,Resolved,Critical,10,2023-06-10,2.0,Phone,Agent Ana,2023,5
+TKT0495,CUS0379,2023-12-17,08:40,Warranty Claim,Resolved,Low,27,2024-01-13,4.0,In-Person,Agent Carla,2023,12
+TKT0496,CUS0012,2024-03-16,16:42,Installation Help,Open,Medium,10,,,Phone,Agent Elena,2024,3
+TKT0497,CUS0277,2023-07-24,18:43,Product Info,Closed,Low,23,2023-08-16,5.0,Email,Agent Diego,2023,7
+TKT0498,CUS0087,2022-06-19,16:51,Return Request,In Progress,Medium,29,,,In-Person,Agent Ana,2022,6
+TKT0499,CUS0111,2024-09-03,11:07,Product Info,Open,Critical,12,,,Chat,Agent Carla,2024,9
+TKT0500,CUS0060,2024-03-24,09:27,Product Info,Closed,Medium,10,2024-04-03,2.0,Email,Agent Diego,2024,3
+TKT0501,CUS0218,2023-10-08,17:37,Warranty Claim,Open,Low,26,,,Chat,Agent Diego,2023,10
+TKT0502,CUS0429,2024-12-30,15:06,Billing,Resolved,High,0,2024-12-30,5.0,Phone,Agent Ana,2024,12
+TKT0503,CUS0391,2024-07-23,09:37,Delivery Issue,In Progress,High,20,,,Email,Agent Diego,2024,7
+TKT0504,CUS0296,2024-12-16,10:39,Technical Support,In Progress,High,23,,,Phone,Agent Diego,2024,12
+TKT0505,CUS0468,2022-06-22,17:37,Product Info,Open,Low,29,,,In-Person,Agent Diego,2022,6
+TKT0506,CUS0046,2023-07-08,12:06,Billing,In Progress,Critical,25,,,In-Person,Agent Ana,2023,7
+TKT0507,CUS0216,2023-08-24,15:41,Delivery Issue,In Progress,High,27,,,In-Person,Agent Bruno,2023,8
+TKT0508,CUS0455,2022-09-18,15:59,Billing,In Progress,High,29,,,In-Person,Agent Diego,2022,9
+TKT0509,CUS0166,2023-10-15,10:33,Return Request,Open,Medium,3,,,Email,Agent Carla,2023,10
+TKT0510,CUS0145,2022-11-27,09:52,Product Info,Escalated,High,4,,,In-Person,Agent Diego,2022,11
+TKT0511,CUS0132,2024-07-07,09:37,Technical Support,Resolved,Critical,1,2024-07-08,2.0,Chat,Agent Elena,2024,7
+TKT0512,CUS0400,2024-08-24,12:25,Installation Help,Open,Low,22,,,Chat,Agent Carla,2024,8
+TKT0513,CUS0384,2024-06-29,11:23,Installation Help,Resolved,High,26,2024-07-25,4.0,Email,Agent Bruno,2024,6
+TKT0514,CUS0270,2022-10-17,08:19,Billing,In Progress,Critical,27,,,In-Person,Agent Diego,2022,10
+TKT0515,CUS0409,2023-03-28,09:38,Technical Support,Open,Medium,7,,,In-Person,Agent Elena,2023,3
+TKT0516,CUS0367,2024-04-27,09:28,Delivery Issue,Resolved,Medium,7,2024-05-04,4.0,Email,Agent Diego,2024,4
+TKT0517,CUS0254,2023-06-13,13:28,Technical Support,Closed,Medium,19,2023-07-02,5.0,In-Person,Agent Ana,2023,6
+TKT0518,CUS0021,2022-10-05,16:11,Installation Help,Closed,Critical,13,2022-10-18,2.0,Phone,Agent Carla,2022,10
+TKT0519,CUS0445,2023-05-31,16:30,Warranty Claim,Escalated,Low,29,,,Phone,Agent Elena,2023,5
+TKT0520,CUS0226,2022-03-09,08:34,Billing,Resolved,Low,30,2022-04-08,5.0,In-Person,Agent Diego,2022,3
+TKT0521,CUS0118,2023-10-10,17:37,Installation Help,Open,Critical,18,,,Chat,Agent Carla,2023,10
+TKT0522,CUS0061,2022-01-16,10:34,Billing,Open,Medium,0,,,Chat,Agent Diego,2022,1
+TKT0523,CUS0462,2024-03-10,13:44,Delivery Issue,Resolved,High,15,2024-03-25,3.0,Chat,Agent Elena,2024,3
+TKT0524,CUS0270,2022-06-09,12:19,Delivery Issue,Resolved,Critical,5,2022-06-14,5.0,Email,Agent Bruno,2022,6
+TKT0525,CUS0024,2022-06-08,18:15,Return Request,In Progress,Critical,15,,,Chat,Agent Ana,2022,6
+TKT0526,CUS0497,2024-01-19,09:35,Product Info,Resolved,Critical,2,2024-01-21,2.0,Phone,Agent Elena,2024,1
+TKT0527,CUS0467,2022-08-14,10:43,Delivery Issue,In Progress,Medium,25,,,In-Person,Agent Ana,2022,8
+TKT0528,CUS0403,2022-06-14,16:17,Technical Support,Open,Critical,13,,,Email,Agent Bruno,2022,6
+TKT0529,CUS0226,2024-10-03,10:08,Return Request,Resolved,Critical,13,2024-10-16,5.0,Email,Agent Elena,2024,10
+TKT0530,CUS0164,2022-06-04,16:21,Product Info,Closed,Critical,26,2022-06-30,3.0,Email,Agent Elena,2022,6
+TKT0531,CUS0174,2022-01-30,16:06,Product Info,Resolved,High,3,2022-02-02,5.0,Chat,Agent Carla,2022,1
+TKT0532,CUS0342,2023-11-07,09:44,Product Info,Resolved,Medium,19,2023-11-26,5.0,Phone,Agent Elena,2023,11
+TKT0533,CUS0270,2023-05-21,15:47,Product Info,Closed,Medium,6,2023-05-27,5.0,Email,Agent Diego,2023,5
+TKT0534,CUS0011,2023-11-25,15:42,Technical Support,Closed,Low,0,2023-11-25,5.0,Email,Agent Ana,2023,11
+TKT0535,CUS0417,2024-09-24,16:10,Warranty Claim,Open,Medium,23,,,Phone,Agent Diego,2024,9
+TKT0536,CUS0454,2022-05-08,13:57,Warranty Claim,Closed,Medium,30,2022-06-07,5.0,Email,Agent Carla,2022,5
+TKT0537,CUS0018,2024-10-11,18:26,Delivery Issue,Closed,Medium,24,2024-11-04,4.0,Chat,Agent Bruno,2024,10
+TKT0538,CUS0469,2022-03-27,13:37,Technical Support,Escalated,Medium,10,,,Phone,Agent Ana,2022,3
+TKT0539,CUS0429,2024-11-19,08:55,Warranty Claim,Open,Low,20,,,Phone,Agent Carla,2024,11
+TKT0540,CUS0321,2022-09-22,13:15,Product Info,Escalated,Critical,28,,,Chat,Agent Diego,2022,9
+TKT0541,CUS0468,2022-12-03,16:23,Delivery Issue,Resolved,High,29,2023-01-01,5.0,Email,Agent Diego,2022,12
+TKT0542,CUS0454,2022-02-24,14:58,Technical Support,Resolved,High,8,2022-03-04,4.0,Email,Agent Elena,2022,2
+TKT0543,CUS0498,2023-05-19,15:01,Billing,In Progress,Low,1,,,In-Person,Agent Ana,2023,5
+TKT0544,CUS0393,2022-01-05,16:31,Billing,Resolved,High,0,2022-01-05,3.0,Email,Agent Diego,2022,1
+TKT0545,CUS0085,2024-09-19,14:11,Product Info,In Progress,Medium,15,,,Chat,Agent Diego,2024,9
+TKT0546,CUS0289,2023-12-13,13:22,Installation Help,Closed,Critical,8,2023-12-21,5.0,Chat,Agent Bruno,2023,12
+TKT0547,CUS0099,2024-05-06,13:23,Delivery Issue,Closed,Medium,25,2024-05-31,1.0,Chat,Agent Bruno,2024,5
+TKT0548,CUS0086,2022-07-29,17:13,Technical Support,Escalated,Low,25,,,Chat,Agent Diego,2022,7
+TKT0549,CUS0392,2022-07-18,15:26,Billing,Resolved,Low,7,2022-07-25,4.0,Email,Agent Carla,2022,7
+TKT0550,CUS0311,2024-11-10,09:03,Warranty Claim,Escalated,Critical,2,,,Phone,Agent Bruno,2024,11
+TKT0551,CUS0126,2022-02-09,09:32,Installation Help,Escalated,Critical,18,,,In-Person,Agent Elena,2022,2
+TKT0552,CUS0179,2023-08-21,18:16,Delivery Issue,Closed,Medium,8,2023-08-29,5.0,Chat,Agent Carla,2023,8
+TKT0553,CUS0394,2023-09-09,13:05,Warranty Claim,Closed,Low,2,2023-09-11,3.0,In-Person,Agent Carla,2023,9
+TKT0554,CUS0227,2023-04-14,10:37,Billing,Closed,Low,6,2023-04-20,4.0,In-Person,Agent Ana,2023,4
+TKT0555,CUS0250,2024-10-28,17:43,Return Request,Escalated,Medium,20,,,Chat,Agent Diego,2024,10
+TKT0556,CUS0005,2024-03-22,11:49,Delivery Issue,Open,High,22,,,Phone,Agent Elena,2024,3
+TKT0557,CUS0046,2022-10-06,13:45,Return Request,Resolved,Critical,27,2022-11-02,4.0,Chat,Agent Elena,2022,10
+TKT0558,CUS0341,2024-02-05,11:29,Return Request,Open,High,7,,,Email,Agent Ana,2024,2
+TKT0559,CUS0296,2024-03-05,16:54,Warranty Claim,Closed,High,11,2024-03-16,5.0,Email,Agent Elena,2024,3
+TKT0560,CUS0252,2024-05-14,08:30,Warranty Claim,Escalated,High,21,,,Email,Agent Bruno,2024,5
+TKT0561,CUS0108,2024-12-27,13:10,Billing,Open,Critical,28,,,Email,Agent Diego,2024,12
+TKT0562,CUS0417,2023-10-16,15:51,Return Request,In Progress,Critical,20,,,Email,Agent Diego,2023,10
+TKT0563,CUS0272,2022-08-08,17:51,Product Info,Escalated,Critical,12,,,Phone,Agent Diego,2022,8
+TKT0564,CUS0062,2024-11-15,12:05,Installation Help,Resolved,Critical,6,2024-11-21,3.0,Email,Agent Diego,2024,11
+TKT0565,CUS0360,2023-06-21,08:44,Delivery Issue,In Progress,Low,9,,,In-Person,Agent Elena,2023,6
+TKT0566,CUS0141,2023-11-30,17:05,Product Info,Open,Critical,27,,,In-Person,Agent Elena,2023,11
+TKT0567,CUS0235,2023-08-23,11:11,Technical Support,Open,High,25,,,Email,Agent Bruno,2023,8
+TKT0568,CUS0352,2023-01-24,09:55,Delivery Issue,Open,Low,3,,,Phone,Agent Ana,2023,1
+TKT0569,CUS0054,2024-01-07,09:18,Product Info,Resolved,High,28,2024-02-04,4.0,Chat,Agent Bruno,2024,1
+TKT0570,CUS0204,2024-03-08,17:35,Warranty Claim,Resolved,Critical,5,2024-03-13,5.0,Chat,Agent Bruno,2024,3
+TKT0571,CUS0290,2023-07-01,12:29,Return Request,In Progress,High,6,,,In-Person,Agent Bruno,2023,7
+TKT0572,CUS0240,2024-11-09,16:43,Return Request,Closed,High,30,2024-12-09,2.0,Chat,Agent Diego,2024,11
+TKT0573,CUS0005,2022-02-09,12:23,Warranty Claim,Resolved,High,29,2022-03-10,1.0,Chat,Agent Bruno,2022,2
+TKT0574,CUS0037,2024-01-11,09:50,Warranty Claim,Resolved,Medium,29,2024-02-09,5.0,Email,Agent Diego,2024,1
+TKT0575,CUS0019,2023-10-13,17:17,Return Request,Escalated,Critical,26,,,Phone,Agent Bruno,2023,10
+TKT0576,CUS0427,2022-09-29,11:12,Installation Help,Open,Low,0,,,Chat,Agent Ana,2022,9
+TKT0577,CUS0334,2024-10-04,12:09,Product Info,In Progress,Medium,4,,,Phone,Agent Diego,2024,10
+TKT0578,CUS0013,2023-03-01,10:35,Product Info,Closed,Medium,6,2023-03-07,5.0,Chat,Agent Ana,2023,3
+TKT0579,CUS0176,2023-11-01,08:33,Return Request,Escalated,Medium,25,,,Phone,Agent Bruno,2023,11
+TKT0580,CUS0076,2024-08-03,15:19,Warranty Claim,Closed,Low,29,2024-09-01,4.0,In-Person,Agent Carla,2024,8
+TKT0581,CUS0054,2022-02-14,11:15,Product Info,Escalated,Low,22,,,In-Person,Agent Bruno,2022,2
+TKT0582,CUS0194,2024-12-04,15:38,Billing,In Progress,Critical,8,,,Phone,Agent Bruno,2024,12
+TKT0583,CUS0129,2023-01-30,17:04,Return Request,Resolved,Low,1,2023-01-31,4.0,In-Person,Agent Diego,2023,1
+TKT0584,CUS0261,2022-03-10,11:21,Product Info,Escalated,Critical,5,,,Email,Agent Diego,2022,3
+TKT0585,CUS0495,2024-04-05,09:33,Technical Support,In Progress,Low,15,,,Email,Agent Ana,2024,4
+TKT0586,CUS0392,2022-03-17,18:29,Installation Help,Resolved,High,29,2022-04-15,2.0,Email,Agent Carla,2022,3
+TKT0587,CUS0246,2022-01-18,11:33,Product Info,Open,Critical,17,,,Phone,Agent Diego,2022,1
+TKT0588,CUS0076,2022-01-24,08:51,Installation Help,In Progress,High,25,,,In-Person,Agent Diego,2022,1
+TKT0589,CUS0348,2022-08-08,10:56,Product Info,Closed,Critical,3,2022-08-11,2.0,Phone,Agent Elena,2022,8
+TKT0590,CUS0458,2023-01-11,13:39,Installation Help,Closed,Critical,21,2023-02-01,4.0,In-Person,Agent Bruno,2023,1
+TKT0591,CUS0238,2023-09-18,09:30,Technical Support,Closed,Medium,27,2023-10-15,4.0,Phone,Agent Ana,2023,9
+TKT0592,CUS0275,2024-01-16,17:35,Return Request,Escalated,Critical,0,,,Chat,Agent Carla,2024,1
+TKT0593,CUS0137,2023-06-03,10:50,Warranty Claim,Closed,Low,29,2023-07-02,2.0,In-Person,Agent Diego,2023,6
+TKT0594,CUS0207,2023-01-07,17:36,Warranty Claim,Closed,Low,10,2023-01-17,5.0,Chat,Agent Ana,2023,1
+TKT0595,CUS0277,2023-07-01,11:16,Delivery Issue,Escalated,Medium,20,,,Phone,Agent Carla,2023,7
+TKT0596,CUS0146,2023-04-22,17:55,Technical Support,In Progress,Medium,9,,,Phone,Agent Diego,2023,4
+TKT0597,CUS0011,2024-02-08,09:57,Warranty Claim,In Progress,Low,19,,,Chat,Agent Elena,2024,2
+TKT0598,CUS0352,2023-03-24,12:31,Billing,Open,High,25,,,Chat,Agent Diego,2023,3
+TKT0599,CUS0255,2024-11-18,10:32,Product Info,Escalated,Low,8,,,In-Person,Agent Ana,2024,11
+TKT0600,CUS0097,2023-04-25,08:38,Return Request,Resolved,Critical,20,2023-05-15,5.0,Phone,Agent Carla,2023,4

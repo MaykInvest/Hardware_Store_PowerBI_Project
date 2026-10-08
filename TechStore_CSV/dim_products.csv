@@ -1,0 +1,61 @@
+﻿product_id,product_name,category,subcategory,brand,supplier_id,unit_price,unit_cost,status,warranty
+PRD001,Kingston A400 240GB,Storage,SATA SSD,Kingston,SUP001,29.99,13,active,2 years
+PRD002,Kingston A400 480GB,Storage,SATA SSD,Kingston,SUP001,49.99,21,active,2 years
+PRD003,Kingston A400 960GB,Storage,SATA SSD,Kingston,SUP001,89.99,38,active,2 years
+PRD004,Samsung 870 EVO 500GB,Storage,SATA SSD,Samsung,SUP002,79.99,34,active,5 years
+PRD005,Samsung 870 EVO 1TB,Storage,SATA SSD,Samsung,SUP002,129.99,56,active,5 years
+PRD006,Samsung 970 EVO 500GB,Storage,NVMe SSD,Samsung,SUP002,69.99,29,active,5 years
+PRD007,Samsung 970 EVO 1TB,Storage,NVMe SSD,Samsung,SUP002,119.99,51,active,5 years
+PRD008,Samsung 970 EVO 2TB,Storage,NVMe SSD,Samsung,SUP002,219.99,94,active,5 years
+PRD009,WD Black SN850 1TB,Storage,NVMe SSD,WD,SUP013,109.99,47,active,5 years
+PRD010,WD Blue 1TB HDD,Storage,HDD,WD,SUP013,44.99,19,active,2 years
+PRD011,Seagate Barracuda 2TB,Storage,HDD,Seagate,SUP014,54.99,23,active,2 years
+PRD012,Seagate Barracuda 4TB,Storage,HDD,Seagate,SUP014,89.99,38,active,2 years
+PRD013,Corsair Vengeance 8GB DDR4,Memory,DDR4,Corsair,SUP003,29.99,12,active,Lifetime
+PRD014,Corsair Vengeance 16GB DDR4,Memory,DDR4,Corsair,SUP003,59.99,25,active,Lifetime
+PRD015,Corsair Vengeance 32GB DDR4,Memory,DDR4,Corsair,SUP003,109.99,47,active,Lifetime
+PRD016,G.Skill Trident Z5 16GB DDR5,Memory,DDR5,G.Skill,SUP004,79.99,34,active,Lifetime
+PRD017,G.Skill Trident Z5 32GB DDR5,Memory,DDR5,G.Skill,SUP004,149.99,64,active,Lifetime
+PRD018,G.Skill Trident Z5 64GB DDR5,Memory,DDR5,G.Skill,SUP004,289.99,124,active,Lifetime
+PRD019,Kingston Fury Beast 16GB DDR4,Memory,DDR4,Kingston,SUP001,54.99,23,active,Lifetime
+PRD020,Kingston Fury Beast 32GB DDR4,Memory,DDR4,Kingston,SUP001,99.99,43,active,Lifetime
+PRD021,ASUS ROG Strix B550-F,Motherboard,ATX AM4,ASUS,SUP005,219.99,94,active,3 years
+PRD022,ASUS ROG Strix Z690-A,Motherboard,ATX LGA1700,ASUS,SUP005,319.99,137,active,3 years
+PRD023,ASUS TUF Gaming B660M,Motherboard,mATX LGA1700,ASUS,SUP005,159.99,68,active,3 years
+PRD024,MSI MAG B550M MORTAR,Motherboard,mATX AM4,MSI,SUP006,129.99,55,active,3 years
+PRD025,MSI PRO Z690-A,Motherboard,ATX LGA1700,MSI,SUP006,189.99,81,active,3 years
+PRD026,Gigabyte B550 AORUS Elite,Motherboard,ATX AM4,Gigabyte,SUP007,169.99,72,active,3 years
+PRD027,Gigabyte Z790 AORUS Master,Motherboard,ATX LGA1700,Gigabyte,SUP007,449.99,193,active,3 years
+PRD028,Intel Core i3-12100,Processor,Intel LGA1700,Intel,SUP008,119.99,51,active,3 years
+PRD029,Intel Core i5-12400,Processor,Intel LGA1700,Intel,SUP008,199.99,86,active,3 years
+PRD030,Intel Core i5-13600K,Processor,Intel LGA1700,Intel,SUP008,279.99,120,active,3 years
+PRD031,Intel Core i7-12700K,Processor,Intel LGA1700,Intel,SUP008,369.99,159,active,3 years
+PRD032,Intel Core i9-12900K,Processor,Intel LGA1700,Intel,SUP008,569.99,245,active,3 years
+PRD033,AMD Ryzen 5 5600X,Processor,AMD AM4,AMD,SUP009,229.99,98,active,3 years
+PRD034,AMD Ryzen 5 7600X,Processor,AMD AM5,AMD,SUP009,249.99,107,active,3 years
+PRD035,AMD Ryzen 7 5800X3D,Processor,AMD AM4,AMD,SUP009,349.99,150,active,3 years
+PRD036,AMD Ryzen 9 5900X,Processor,AMD AM4,AMD,SUP009,449.99,193,active,3 years
+PRD037,AMD Ryzen 9 7900X,Processor,AMD AM5,AMD,SUP009,549.99,236,active,3 years
+PRD038,NVIDIA RTX 3060 12GB,GPU,NVIDIA Ampere,NVIDIA,SUP010,329.99,141,active,3 years
+PRD039,NVIDIA RTX 3070 8GB,GPU,NVIDIA Ampere,NVIDIA,SUP010,499.99,215,active,3 years
+PRD040,NVIDIA RTX 3080 10GB,GPU,NVIDIA Ampere,NVIDIA,SUP010,699.99,301,active,3 years
+PRD041,NVIDIA RTX 4060 8GB,GPU,NVIDIA Ada,NVIDIA,SUP010,299.99,129,active,3 years
+PRD042,NVIDIA RTX 4070 12GB,GPU,NVIDIA Ada,NVIDIA,SUP010,599.99,258,active,3 years
+PRD043,NVIDIA RTX 4080 16GB,GPU,NVIDIA Ada,NVIDIA,SUP010,1199.99,516,active,3 years
+PRD044,AMD RX 6600 8GB,GPU,AMD RDNA2,AMD,SUP009,289.99,124,active,3 years
+PRD045,AMD RX 6700 XT 12GB,GPU,AMD RDNA2,AMD,SUP009,399.99,172,active,3 years
+PRD046,AMD RX 7900 XTX 24GB,GPU,AMD RDNA3,AMD,SUP009,999.99,430,active,3 years
+PRD047,Corsair RM650 Modular,PSU,650W Gold,Corsair,SUP003,89.99,38,active,10 years
+PRD048,Corsair RM750 Modular,PSU,750W Gold,Corsair,SUP003,109.99,47,active,10 years
+PRD049,Corsair RM850 Modular,PSU,850W Gold,Corsair,SUP003,139.99,60,active,10 years
+PRD050,EVGA SuperNOVA 650W,PSU,650W Gold,EVGA,SUP011,89.99,38,active,10 years
+PRD051,be quiet! Straight Power 850W,PSU,850W Platinum,be quiet!,SUP015,169.99,73,active,5 years
+PRD052,Thermaltake Toughpower 1000W,PSU,1000W Platinum,Thermaltake,SUP018,189.99,81,active,10 years
+PRD053,Noctua NH-D15,Cooler,Air Dual Tower,Noctua,SUP012,99.99,43,active,6 years
+PRD054,Noctua NH-U12S,Cooler,Air Single Tower,Noctua,SUP012,69.99,30,active,6 years
+PRD055,Corsair H100i RGB 240mm,Cooler,AIO 240mm,Corsair,SUP003,129.99,56,active,5 years
+PRD056,Corsair H150i Elite 360mm,Cooler,AIO 360mm,Corsair,SUP003,169.99,73,active,5 years
+PRD057,NZXT Kraken X73 360mm,Cooler,AIO 360mm,NZXT,SUP016,189.99,81,active,6 years
+PRD058,DeepCool AK620,Cooler,Air Dual Tower,DeepCool,SUP017,54.99,23,active,3 years
+PRD059,Cooler Master Hyper 212,Cooler,Air Single Tower,Cooler Master,SUP019,39.99,17,active,2 years
+PRD060,Thermaltake UX200 ARGB,Cooler,Air Single Tower,Thermaltake,SUP018,34.99,15,active,2 years
